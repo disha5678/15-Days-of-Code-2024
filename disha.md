@@ -11,3 +11,12 @@
 - Question 3
    [https://www.codechef.com/problems/PARTSCORE]
 - Started learning binary tree from Narsima Kuramanchi book
+
+### Day 2
+- Question 1
+   [https://codeforces.com/problemset/problem/2021/A]
+- Question 2
+   [https://codeforces.com/problemset/problem/2014/A]
+- Question 3
+   [https://codeforces.com/problemset/problem/2013/A]
+      
