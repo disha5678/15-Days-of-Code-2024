@@ -23,5 +23,19 @@
    [https://codeforces.com/problemset/problem/2014/A]
 - Question 3
    [https://codeforces.com/problemset/problem/2013/A]
-- Other Tasks : 1. Given Cf contest
+- Other Tasks : 1. Given Cf contest and able to solve 2 questions(A and B).
                 2. Study about quick sort
+
+
+### Day 3
+
+
+[October] [25], 2024
+
+- Question 1
+   [https://codeforces.com/contest/2025/problem/A]
+- Question 2
+   [https://codeforces.com/contest/2030/problem/A]
+- Question 3
+   [https://codeforces.com/contest/230/problem/B]
+- Other Tasks : 1. Tried solving cf yesterday questions from C but not able to solve them.               
