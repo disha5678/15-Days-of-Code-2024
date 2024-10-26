@@ -38,4 +38,19 @@
    [https://codeforces.com/contest/2030/submission/287959364]
 - Question 3
    [https://codeforces.com/contest/230/submission/287969814]
-- Other Tasks : 1. Tried solving cf yesterday questions from C but not able to solve them.               
+- Other Tasks : 1. Tried solving cf yesterday questions from C but not able to solve them.
+
+
+
+### Day 4
+
+
+[October] [26], 2024
+
+- Question 1
+   [https://leetcode.com/problems/sum-of-two-integers/submissions/1434470154/]
+- Question 2
+   [https://codeforces.com/contest/2008/submission/288178920]
+- Question 3
+   [https://leetcode.com/problems/valid-parentheses/submissions/1434488119/]  
+Other tasks : 1. Done some logic building questions related to segnment trees.     
