@@ -53,4 +53,35 @@
    [https://codeforces.com/contest/2008/submission/288178920]
 - Question 3
    [https://leetcode.com/problems/valid-parentheses/submissions/1434488119/]  
-Other tasks : 1. Done some logic building questions related to segnment trees.     
+Other tasks : 1. Done some logic building questions related to segnment trees.
+
+
+### Day 5
+
+
+[October] [27], 2024
+
+- Question 1
+   [https://codeforces.com/contest/2024/submission/288434858]
+Other tasks: Studied more about CSS
+
+
+
+
+### Day 6
+
+
+[October] [28], 2024
+
+- Question 1
+   [https://codeforces.com/contest/231/submission/288439029]
+- Question 2
+   [https://codeforces.com/contest/4/submission/288440035]
+- Question 3
+   [https://codeforces.com/contest/236/submission/288441549]
+- Question 4
+   [https://codeforces.com/contest/2020/submission/288466873]
+- Question 5
+   [https://codeforces.com/contest/2010/submission/288520504]   
+
+   Other tasks 1. Done more question on segnment trees .  
