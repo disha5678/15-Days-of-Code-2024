@@ -82,6 +82,21 @@ Other tasks: Studied more about CSS
 - Question 4
    [https://codeforces.com/contest/2020/submission/288466873]
 - Question 5
-   [https://codeforces.com/contest/2010/submission/288520504]   
+   [https://codeforces.com/contest/2010/submission/288520504]
+- Question 6
+   []      
 
-   Other tasks 1. Done more question on segnment trees .  
+   Other tasks 1. Done more question on segnment trees .
+
+
+   ### Day 7
+
+
+   [October] [29], 2024
+
+   - Question 1
+     [https://codeforces.com/contest/2007/submission/288626146]
+   - Question 2
+     [https://codeforces.com/contest/2022/submission/288715167]
+
+         
