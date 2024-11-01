@@ -124,4 +124,17 @@ Other tasks: Studied more about CSS
 - Question 2
   [file:///D:/AlgoZenith/Module%203%20Week%209/3.%20Practice%20Problems/02.%20Range%20Queries%20II.html]
 
-  solved these two questions of segnment trees. 
+  solved these two questions of segnment trees.
+
+
+
+## Day 10
+
+- Question 1
+  [https://codeforces.com/contest/2004/submission/289125790]
+- Question 2
+  [https://codeforces.com/contest/1976/submission/289180370]
+- Question 3
+  [https://codeforces.com/contest/59/submission/289182105]
+
+  Studied about Object Oriented Programming(Constructors, Destructor and their types)    
