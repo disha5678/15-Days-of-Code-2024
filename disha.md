@@ -99,4 +99,29 @@ Other tasks: Studied more about CSS
    - Question 2
      [https://codeforces.com/contest/2022/submission/288715167]
 
-         
+
+
+## Day 8
+
+
+[October] [30], 2024
+
+- Question 1
+  [https://www.codechef.com/viewsolution/1102982234]
+
+- Question 2
+   [https://www.codechef.com/viewsolution/1102981544]
+
+
+## Day 9
+
+
+[October] [31], 2024
+
+- Question 1
+  [file:///D:/AlgoZenith/Module%203%20Week%209/3.%20Practice%20Problems/01.%20Range%20Queries%20I.html]
+
+- Question 2
+  [file:///D:/AlgoZenith/Module%203%20Week%209/3.%20Practice%20Problems/02.%20Range%20Queries%20II.html]
+
+  solved these two questions of segnment trees. 
