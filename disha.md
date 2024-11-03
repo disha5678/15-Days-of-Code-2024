@@ -174,4 +174,6 @@ Other tasks: Studied more about CSS
     [https://codeforces.com/contest/486/submission/289768269]
   - Question 5
     [https://codeforces.com/contest/546/submission/289787354]
+  - Question 6
+    [https://codeforces.com/contest/2036/submission/289806933]  
   
