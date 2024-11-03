@@ -167,4 +167,11 @@ Other tasks: Studied more about CSS
   - Question 1
     [https://codeforces.com/contest/2001/submission/289747757]
   - Question 2
-    []
+    [https://codeforces.com/contest/2000/submission/289752381]
+  - Question 3
+    [https://codeforces.com/contest/2000/submission/289767210]
+  - Question 4
+    [https://codeforces.com/contest/486/submission/289768269]
+  - Question 5
+    [https://codeforces.com/contest/546/submission/289787354]
+  
