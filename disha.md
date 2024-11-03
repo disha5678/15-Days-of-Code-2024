@@ -130,6 +130,10 @@ Other tasks: Studied more about CSS
 
 ## Day 10
 
+
+[November] [1], 2024
+
+
 - Question 1
   [https://codeforces.com/contest/2004/submission/289125790]
 - Question 2
@@ -137,4 +141,30 @@ Other tasks: Studied more about CSS
 - Question 3
   [https://codeforces.com/contest/59/submission/289182105]
 
-  Studied about Object Oriented Programming(Constructors, Destructor and their types)    
+  Studied about Object Oriented Programming(Constructors, Destructor and their types)
+
+
+## Day 11
+
+
+[November] [2], 2024
+
+
+
+- Question 1
+  [https://www.interviewbit.com/problems/intersection-of-linked-lists/]
+- Question 2
+  [https://www.interviewbit.com/problems/add-two-numbers-as-lists/]
+- Question 3
+  [https://www.interviewbit.com/problems/list-cycle/]
+
+
+  ## Day 12
+
+
+  [November] [3], 2024
+
+  - Question 1
+    [https://codeforces.com/contest/2001/submission/289747757]
+  - Question 2
+    []
