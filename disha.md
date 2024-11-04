@@ -175,5 +175,16 @@ Other tasks: Studied more about CSS
   - Question 5
     [https://codeforces.com/contest/546/submission/289787354]
   - Question 6
-    [https://codeforces.com/contest/2036/submission/289806933]  
+    [https://codeforces.com/contest/2036/submission/289806933]
+
+
+    ## Day 13
+
+
+    [November] [4], 2024
+
+    - Question 1
+      [https://codeforces.com/contest/116/submission/289968334]
+    - Question 2
+      [https://codeforces.com/contest/1679/submission/289972579]    
   
