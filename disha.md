@@ -197,5 +197,20 @@ Other tasks: Studied more about CSS
         [https://codeforces.com/contest/2035/submission/290106441]
       - Question 2
         [https://codeforces.com/contest/2019/submission/290118996]
+
+
+      ## Day 15
+
+      [November] [06], 2024
+
+
+      - Question 1
+        [https://codeforces.com/contest/677/submission/290286129]
+      - Question 2
+        [https://codeforces.com/contest/41/submission/290285564]  
+
+     1. Gave codechef contest able to solve 3 questions.
+     2. Studied about AVL trees.
+
            
   
